@@ -1,0 +1,13 @@
+node1:
+ image: redis_node
+node2:
+ image: redis_node
+node3:
+ image: redis_node
+node4:
+ image: redis_node
+node5:
+ image: redis_node
+node6:
+ image: redis_node
+ 
